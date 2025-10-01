@@ -1,9 +1,9 @@
 Titulo Resumido,Ano,Pais,Tipo de Estudo,Foco Principal,Metrica Avaliada
-Adoção de Integração Contínua (CI),2016,Finlândia,Survey,Barreiras na adoção,Frequência de builds
-Impacto do CI na Qualidade do Código,2017,EUA,Estudo de Caso,Qualidade de código,Densidade de defeitos
-Práticas de DevOps em Startups,2018,Alemanha,Estudo de Caso,Cultura e Ferramentas,Tempo de ciclo
-Mapeamento de Testes Contínuos,2019,Austrália,Mapeamento Sist.,Desafios em testes,Cobertura de testes
-Experimentação A/B em Deploy Contínuo,2020,Suécia,Experimento,Validação de features,Engajamento do usuário
-Medindo a Produtividade em DevOps,2021,EUA,Survey,Desempenho de entrega,Lead time para mudanças
-Fatores Humanos na Entrega Contínua (CD),2022,Brasil,Estudo de Caso,Colaboração de equipes,Satisfação do time
-IA na Automação de Pipelines CI/CD,2023,China,Mapeamento Sist.,Ferramentas de IA,Eficiência do pipeline
+Revisão sobre Adoção de CI,2017,Finlândia,Revisão Sistemática,Barreiras na adoção,Causas de problemas
+Qualidade e Produtividade em CI,2015,EUA,Estudo de Caso,Qualidade de código,Número de commits
+Mapeamento sobre DevOps,2017,Holanda,Mapeamento Sist.,Definições e práticas,Ferramentas DevOps
+Revisão sobre CI/CD/CD,2017,Austrália,Revisão Sistemática,Desafios e práticas,Frequência de deploy
+Efeitos dos Testes A/B na Qualidade,2018,Bélgica,Estudo de Caso,Qualidade de software,Complexidade do código
+Survey sobre Estado do DevOps,2016,EUA,Survey,Desempenho de entrega,Lead time para mudanças
+Fatores não-técnicos em CD,2017,Espanha,Estudo de Caso,Cultura e liderança,Aprendizado organizacional
+Microserviços e DevOps,2016,Canadá,Estudo de Caso,Arquitetura,Agilidade de entrega
